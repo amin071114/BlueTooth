@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/scan_item"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/scan"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bluetooth_item"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@android:drawable/stat_sys_data_bluetooth"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        android:title="@string/bluetooth_action" />
+</menu>

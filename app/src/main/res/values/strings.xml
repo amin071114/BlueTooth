@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">زریاب</string>
     <string name="warning">هشدار</string>
+    <string name="no_avilabel">دستگاه دارای بلوتوث نمی باشد</string>
+    <string name="ok">باشه</string>
+    <string name="bluetooth_active">بلوتوث فعال شد.</string>
+    <string name="bluetooth_deactive">بلوتوث غیر فعال شد.</string>
+    <string name="neetconnet">نیاز به برسی بلوتوث برای اتصال</string>
+    <string name="search">جستوجو بلوتوث</string>
+    <string name="bluetooth_action">bluetooth_action</string>
+    <string name="scan">scan</string>
+    <string name="scaning">درحال جستوجو</string>
+    <string name="pair">جفت شده ها</string>
+    <string name="avilabel">دستگاه های یافت شده</string>
+    <string name="exit">خروج</string>
 </resources>
